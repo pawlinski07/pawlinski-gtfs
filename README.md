@@ -21,3 +21,10 @@ as long as proper credit to the author and the license is provided.
 Dataset author: **pawlinski07**
 Example attribution:
 "Data source: GTFS dataset by pawlinski07, licensed under CC-BY 4.0"
+
+---
+
+## Direct GTFS links:
+
+- Kolej Pleszewska: https://github.com/pawlinski07/pawlinski-gtfs/raw/refs/heads/main/KolejPleszewska.zip
+- Wschód Express: https://github.com/pawlinski07/pawlinski-gtfs/raw/refs/heads/main/WschodExpress_Wsiobusy.zip
